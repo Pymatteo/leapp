@@ -212,7 +212,7 @@ This extends generally to all CLIs and external tools that need to communicate o
 
 By default, Leapp writes logs to the following locations:
 
-- on Linux: ~/.config/**Leapp**/logs/log.log
+- on Linux: ~/.config/**Leapp**/log.log
 - on macOS: ~/Library/Logs/**Leapp**/log.log
 - on Windows: %USERPROFILE%\\AppData\\Roaming\\**Leapp**\\logs\\log.log
 
